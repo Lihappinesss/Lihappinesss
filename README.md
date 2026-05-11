@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Azaliia 👋
 
-<!--
-**Lihappinesss/Lihappinesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 6+ years of experience building and maintaining high-traffic web applications.
 
-Here are some ideas to get you started:
+I specialize in React, TypeScript, Redux Toolkit, performance optimization, and frontend architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm improving my skills in Next.js, modern React, Tailwind CSS, and full-stack development.
+
+## Tech Stack
+
+- React
+- TypeScript
+- JavaScript
+- Redux Toolkit
+- React Query
+- Next.js
+- HTML / CSS / Tailwind CSS
+- Webpack / Nx
+- Node.js basics
+
+## Featured Projects
+
+### PlanItPoker
+
+A planning poker application for estimating tasks in teams.
+
+**Tech stack:** React, TypeScript, Nx, Node.js, Express, PostgreSQL
+
+Features:
+- user authentication
+- rooms
+- task management
+- voting flow
+- frontend and backend in one monorepo
+
+Repository: [PlanItPoker](https://github.com/Lihappinesss/PlanItPoker)
+
+## What I'm working on now
+
+- Upgrading React projects to modern versions
+- Learning Next.js
+- Improving TypeScript skills
+- Practicing frontend interview tasks
+- Building pet projects for my portfolio
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/azaliya-frontend-dev/
+- Email: liya.frontend.code@gmail.com
