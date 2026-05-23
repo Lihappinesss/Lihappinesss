@@ -4,7 +4,7 @@ Frontend Developer with 6+ years of experience building and maintaining high-tra
 
 I specialize in React, TypeScript, Redux Toolkit, performance optimization, and frontend architecture.
 
-Currently, I'm improving my skills in Next.js, modern React, Tailwind CSS, and full-stack development.
+Currently, I'm improving my skills in Next.js, modern React, and full-stack development.
 
 ## Tech Stack
 
@@ -14,7 +14,7 @@ Currently, I'm improving my skills in Next.js, modern React, Tailwind CSS, and f
 - Redux Toolkit
 - React Query
 - Next.js
-- HTML / CSS / Tailwind CSS
+- HTML / CSS / SCSS
 - Webpack / Nx
 - Node.js basics
 
